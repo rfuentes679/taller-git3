@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-"claudio" 
-=======
 
-
-se agregan lineas de texto
->>>>>>> ce88953a6cd29bc58bfa45f2f2a9c936cf0d8154
+claudio 2.0
